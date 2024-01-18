@@ -1,3 +1,5 @@
 hello world git submodule
 
 how can update in submodule sync to main module?
+
+update, but I dont want to sync this change into main
